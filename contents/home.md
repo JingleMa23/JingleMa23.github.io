@@ -1,20 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a **Bachelor's degree** in **Microelectronics Science and Engineering** at the **National University of Defense Technology (NUDT)**, Changsha, China.
+
+My research interests focus on **AI hardware acceleration**, specifically investigating **dedicated chips** at the **device level** and exploring emerging devices for **neuromorphic computing**.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>majingle@nudt.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**National University of Defense Technology (NUDT)**
+*Bachelor of Engineering in Microelectronics Science and Engineering*
+*Sept 2023 - Present*
 
 #### Research Interests  
-XX, XX, XX, XX.
+**AI-Accelerated Chips**, **Microelectronic Devices**, **Neuromorphic Computing**, **Integrated Circuits**.

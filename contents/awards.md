@@ -1,3 +1,5 @@
-- 校级一等奖学金, 2022.  
+- First-Class University Scholarship, 2024.
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- National First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2025.
+
+- National First Prize, "Challenge Cup" Competition (Innovation and Application Track), 2025.
