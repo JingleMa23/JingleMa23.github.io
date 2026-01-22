@@ -1,5 +1,5 @@
 ### **Undergraduate Student**  
-** September 2023 - Present | [National University of Defense Technology]**  
+**September 2023 - Present | [National University of Defense Technology]**  
 
 I am currently pursuing a Bachelor's degree in **Microelectronics Science and Engineering**. My primary research interest lies in **AI-accelerated dedicated chips**, with a specific focus on the **device level** (e.g., emerging devices for neuromorphic computing).
 
