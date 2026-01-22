@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/GitHub-JingleMa23-black?logo=github)](https://github.com/JingleMa23)
 
 I'm currently pursuing a **Bachelor's degree** in **Microelectronics Science and Engineering** at the **National University of Defense Technology (NUDT)**, Changsha, China.
 
